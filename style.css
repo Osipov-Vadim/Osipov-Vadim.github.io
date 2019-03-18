@@ -119,13 +119,14 @@
 @media screen and (max-width: 749px) {
   .wrapper-profile {
     text-align: center;
+    margin: 0 auto;
   }
 
   .b1 {
-    margin-left: 10px;
+    margin: 0 auto;
+    width: 30vw;
     min-width: 150px;
     min-height: 150px;
-    margin-right: 10px;
     background-color: #66cc666c; 
   }
 
